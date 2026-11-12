@@ -60,6 +60,17 @@ Created three interactive dashboard pages:
 - Domino's Pizza (DPZ) recorded the lowest volatility among the four assets.
 - The analysis demonstrates the relationship between historical returns and risk.
 
+## Dashboard Previews
+
+### Page 1 – Market Overview
+![Market Overview](Stock_market_Analysis_Page-1.png)
+
+### Page 2 – Asset Performance Analysis
+![Asset Performance Analysis](Stock_market_Analysis_Page-2.png)
+
+### Page 3 – Dynamic RLS & User Access Management
+![Dynamic RLS & User Access Management](Stock_market_Analysis_Page-3.png)
+
 ## Skills Demonstrated
 - Data Cleaning and Preparation
 - Exploratory Data Analysis
